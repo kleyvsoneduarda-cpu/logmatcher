@@ -1,0 +1,21 @@
+{
+  "name": "logmatcher",
+  "version": "1.0.0",
+  "description": "The `matcher` package contains the core expression language for matching `captainslog.SyslogMsg` data in an intuitive and expressive way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalocean/logmatcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/digitalocean/logmatcher/issues"
+  },
+  "homepage": "https://github.com/digitalocean/logmatcher#readme"
+}
